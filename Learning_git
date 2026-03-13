@@ -1,1 +1,14 @@
 Git is a version control system designed to manage and track changes in source code.
+git status
+git add .
+git commit -m ""
+git push origin main
+git add <file.txt>
+git diff : shows changes of ur file
+git diff --staged 
+git clone <repository_url> : creates local copy
+git log --all
+git log --oneline
+git log --oneline -3
+
+Creating a repo:
